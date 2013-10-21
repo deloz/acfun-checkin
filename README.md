@@ -1,6 +1,8 @@
 AcFun-Checkin
 =========
 
+a little script for checkin on AcFun.tv with Node.js .
+
 #Quick Start
 
     npm install acfun-checkin
