@@ -14,7 +14,7 @@ or
 
 #Example
 
-notice: use `UTF-8(NO BOM)` while editing.
+notice: use `UTF-8(NO BOM)` while editing. 
 
     var acfunCheckin = require('acfun-checkin');
 
