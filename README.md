@@ -5,7 +5,7 @@ a little script for checkin on AcFun.tv with Node.js .
 
 #Quick Start
 
-    npm install acfun-checkin
+    npm install request node-schedule acfun-checkin
 
 or
 
